@@ -46,7 +46,7 @@ def main():
                 punctuation=[k for k,s in originals.items() if unwrapped.endswith('。') and unwrapped[:-1]+'；' in s]
                 result['quotes'].append({'quote':q,'literal_match':exact,'match_without_added_outer_quotes':typographic,'terminal_period_in_place_of_semicolon':punctuation})
             checks.append(result)
-    (ROOT/'docs/v4-dialogues.md').write_text(out,encoding='utf-8')
+    (ROOT/'docs/v4-dialogues.md').write_text(out.rstrip()+'\n',encoding='utf-8')
     (ROOT/'evals/v4-dialogue-checks.json').write_text(json.dumps({'version':'4.0.0','scope':'literal quotations and body lengths; no automatic rating of understanding or relief','checks':checks},ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
     print('Rendered',len(checks),'unaltered assistant replies')
 if __name__=='__main__': main()
