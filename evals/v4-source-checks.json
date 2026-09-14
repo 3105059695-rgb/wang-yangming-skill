@@ -1,0 +1,223 @@
+{
+  "version": "4.0.0",
+  "scope": "Complete selected units against stored fixed public transcriptions; not image collation or exhaustive philosophical coverage",
+  "selected_units": 52,
+  "all_matched": true,
+  "public_versions": {
+    "卷上": "https://zh.wikisource.org/w/index.php?title=%E5%82%B3%E7%BF%92%E9%8C%84/%E5%8D%B7%E4%B8%8A&oldid=2603592",
+    "卷中": "https://zh.wikisource.org/w/index.php?title=%E5%82%B3%E7%BF%92%E9%8C%84/%E5%8D%B7%E4%B8%AD&oldid=2509125",
+    "卷下": "https://zh.wikisource.org/w/index.php?title=%E5%82%B3%E7%BF%92%E9%8C%84/%E5%8D%B7%E4%B8%8B&oldid=2063633"
+  },
+  "checks": [
+    {
+      "unit": "CX-L201",
+      "exact_public_snapshot": true
+    },
+    {
+      "unit": "CX-L202",
+      "exact_public_snapshot": true
+    },
+    {
+      "unit": "CX-L204",
+      "exact_public_snapshot": true
+    },
+    {
+      "unit": "CX-L214",
+      "exact_public_snapshot": true
+    },
+    {
+      "unit": "CX-L218",
+      "exact_public_snapshot": true
+    },
+    {
+      "unit": "CX-L225",
+      "exact_public_snapshot": true
+    },
+    {
+      "unit": "CX-L227",
+      "exact_public_snapshot": true
+    },
+    {
+      "unit": "CX-L232",
+      "exact_public_snapshot": true
+    },
+    {
+      "unit": "CX-L238",
+      "exact_public_snapshot": true
+    },
+    {
+      "unit": "CX-L241",
+      "exact_public_snapshot": true
+    },
+    {
+      "unit": "CX-L242",
+      "exact_public_snapshot": true
+    },
+    {
+      "unit": "CX-L243",
+      "exact_public_snapshot": true
+    },
+    {
+      "unit": "CX-L248",
+      "exact_public_snapshot": true
+    },
+    {
+      "unit": "CX-L257",
+      "exact_public_snapshot": true
+    },
+    {
+      "unit": "CX-L260",
+      "exact_public_snapshot": true
+    },
+    {
+      "unit": "CX-L262",
+      "exact_public_snapshot": true
+    },
+    {
+      "unit": "CX-L279",
+      "exact_public_snapshot": true
+    },
+    {
+      "unit": "CX-L282",
+      "exact_public_snapshot": true
+    },
+    {
+      "unit": "CX-L290",
+      "exact_public_snapshot": true
+    },
+    {
+      "unit": "CX-L292",
+      "exact_public_snapshot": true
+    },
+    {
+      "unit": "CX-L307",
+      "exact_public_snapshot": true
+    },
+    {
+      "unit": "CX-L313",
+      "exact_public_snapshot": true
+    },
+    {
+      "unit": "CX-L317",
+      "exact_public_snapshot": true
+    },
+    {
+      "unit": "CX-L321",
+      "exact_public_snapshot": true
+    },
+    {
+      "unit": "CX-M133",
+      "exact_public_snapshot": true
+    },
+    {
+      "unit": "CX-M136",
+      "exact_public_snapshot": true
+    },
+    {
+      "unit": "CX-M142",
+      "exact_public_snapshot": true
+    },
+    {
+      "unit": "CX-M143",
+      "exact_public_snapshot": true
+    },
+    {
+      "unit": "CX-M174",
+      "exact_public_snapshot": true
+    },
+    {
+      "unit": "CX-M176",
+      "exact_public_snapshot": true
+    },
+    {
+      "unit": "CX-M178",
+      "exact_public_snapshot": true
+    },
+    {
+      "unit": "CX-M187",
+      "exact_public_snapshot": true
+    },
+    {
+      "unit": "CX-M189",
+      "exact_public_snapshot": true
+    },
+    {
+      "unit": "CX-U003",
+      "exact_public_snapshot": true
+    },
+    {
+      "unit": "CX-U005",
+      "exact_public_snapshot": true
+    },
+    {
+      "unit": "CX-U006",
+      "exact_public_snapshot": true
+    },
+    {
+      "unit": "CX-U008",
+      "exact_public_snapshot": true
+    },
+    {
+      "unit": "CX-U010",
+      "exact_public_snapshot": true
+    },
+    {
+      "unit": "CX-U016",
+      "exact_public_snapshot": true
+    },
+    {
+      "unit": "CX-U021",
+      "exact_public_snapshot": true
+    },
+    {
+      "unit": "CX-U025",
+      "exact_public_snapshot": true
+    },
+    {
+      "unit": "CX-U028",
+      "exact_public_snapshot": true
+    },
+    {
+      "unit": "CX-U044",
+      "exact_public_snapshot": true
+    },
+    {
+      "unit": "CX-U095",
+      "exact_public_snapshot": true
+    },
+    {
+      "unit": "CX-U098",
+      "exact_public_snapshot": true
+    },
+    {
+      "unit": "CX-U099",
+      "exact_public_snapshot": true
+    },
+    {
+      "unit": "CX-U101",
+      "exact_public_snapshot": true
+    },
+    {
+      "unit": "CX-U105",
+      "exact_public_snapshot": true
+    },
+    {
+      "unit": "CX-U106",
+      "exact_public_snapshot": true
+    },
+    {
+      "unit": "CX-U115",
+      "exact_public_snapshot": true
+    },
+    {
+      "unit": "CX-U117",
+      "exact_public_snapshot": true
+    },
+    {
+      "unit": "DQ-FULL",
+      "exact_public_snapshot": true,
+      "scope": "From independently read cached fixed-version HTML, 12 paragraphs / 6 full Q&A; recorder afterword separate. Extraction assertion and full reading completed."
+    }
+  ],
+  "exclusions": "CX-M143 excludes a modern editorial parenthesis. DQ-FULL includes all six Q&A and separately identifies Qian Dehong afterword."
+}

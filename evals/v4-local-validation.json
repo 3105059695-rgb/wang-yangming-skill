@@ -1,0 +1,27 @@
+{
+  "scope": "build identity, full source units and quote substrings, versioned evidence, links, blank template, coverage counts",
+  "files": 135,
+  "local_links_checked": 231,
+  "source_units": 52,
+  "topics": 8,
+  "transcript_files_checked": [
+    "baseline-colleague.json",
+    "candidate-choice.json",
+    "candidate-colleague.json",
+    "candidate-memory.json",
+    "v3-decision.json",
+    "v3-final-boundary.json",
+    "v3-final-choice.json",
+    "v3-final-regret.json",
+    "v3-knowledge.json",
+    "v3-recheck.json",
+    "v3-relationship.json",
+    "v4-cooperation.json",
+    "v4-learning.json",
+    "v4-portable.json",
+    "v4-selfwatch.json"
+  ],
+  "direct_sha256_lf": "0fe3c8209131f08e69738b795c30574177019ca55bf9a9d930557a3c16d1b256",
+  "errors": [],
+  "passed": true
+}

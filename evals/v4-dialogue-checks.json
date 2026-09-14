@@ -1,0 +1,109 @@
+{
+  "version": "4.0.0",
+  "scope": "literal quotations and body lengths; no automatic rating of understanding or relief",
+  "checks": [
+    {
+      "file": "v4-cooperation.json",
+      "message_index": 1,
+      "body_cjk": 516,
+      "quotes": [
+        {
+          "quote": "故稷勤其稼，而不恥其不知教，視契之善教，即己之善教也。",
+          "literal_match": [],
+          "match_without_added_outer_quotes": [],
+          "terminal_period_in_place_of_semicolon": [
+            "CX-M142"
+          ]
+        },
+        {
+          "quote": "其稱名僭號，未嘗不曰「吾欲以共成天下之務」，而其誠心實意之所在，以為不如是則無以濟其私而滿其欲也。",
+          "literal_match": [
+            "CX-M143"
+          ],
+          "match_without_added_outer_quotes": [
+            "CX-M143"
+          ],
+          "terminal_period_in_place_of_semicolon": []
+        }
+      ]
+    },
+    {
+      "file": "v4-cooperation.json",
+      "message_index": 3,
+      "body_cjk": 329,
+      "quotes": []
+    },
+    {
+      "file": "v4-learning.json",
+      "message_index": 1,
+      "body_cjk": 459,
+      "quotes": [
+        {
+          "quote": "蓋學之不能以無疑，則有問，問即學也，即行也；又不能無疑，則有思，思即學也，即行也；又不能無疑，則有辨，辨即學也，即行也。",
+          "literal_match": [
+            "CX-M136"
+          ],
+          "match_without_added_outer_quotes": [
+            "CX-M136"
+          ],
+          "terminal_period_in_place_of_semicolon": []
+        }
+      ]
+    },
+    {
+      "file": "v4-learning.json",
+      "message_index": 3,
+      "body_cjk": 223,
+      "quotes": []
+    },
+    {
+      "file": "v4-selfwatch.json",
+      "message_index": 1,
+      "body_cjk": 470,
+      "quotes": [
+        {
+          "quote": "「這聽講說時專敬，即是那靜坐時心。功夫一貫，何須更起念頭？」",
+          "literal_match": [],
+          "match_without_added_outer_quotes": [
+            "CX-L204"
+          ],
+          "terminal_period_in_place_of_semicolon": []
+        }
+      ]
+    },
+    {
+      "file": "v4-selfwatch.json",
+      "message_index": 3,
+      "body_cjk": 243,
+      "quotes": [
+        {
+          "quote": "「悔悟是去病之藥，然以改之為貴。若留滯於中，則又因藥發病。」",
+          "literal_match": [
+            "CX-U106"
+          ],
+          "match_without_added_outer_quotes": [
+            "CX-U106"
+          ],
+          "terminal_period_in_place_of_semicolon": []
+        }
+      ]
+    },
+    {
+      "file": "v4-portable.json",
+      "message_index": 1,
+      "body_cjk": 525,
+      "quotes": [
+        {
+          "quote": "然而不敢遽捨其中心之誠然而姑以聽受云者，正不敢有負於深愛，亦思有以報之耳。",
+          "literal_match": [
+            "CX-M178"
+          ],
+          "match_without_added_outer_quotes": [
+            "CX-M178"
+          ],
+          "terminal_period_in_place_of_semicolon": []
+        }
+      ]
+    }
+  ]
+}
