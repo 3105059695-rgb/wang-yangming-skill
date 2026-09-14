@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400" role="img" aria-labelledby="hero-title hero-description">
+  <title id="hero-title">王阳明 · 开导与抉择</title>
+  <desc id="hero-description">深墨绿书封式横幅。王阳明，开导与抉择。从一件烦心事，读懂此心与此事。右侧以月、山与书页的金色细线呼应阅读与思考。</desc>
+  <defs>
+    <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#182D28"/>
+      <stop offset="1" stop-color="#0D1C19"/>
+    </linearGradient>
+  </defs>
+
+  <!-- A quiet cover: system serif fonts, ample space, no external assets. -->
+  <rect width="1280" height="400" fill="url(#paper)"/>
+  <rect x="22.5" y="22.5" width="1235" height="355" rx="2" fill="none" stroke="#B8A071" stroke-opacity="0.28"/>
+  <path d="M72 70H106" stroke="#C5AB76" stroke-width="2"/>
+  <text x="120" y="74" fill="#BCA982" font-family="Georgia, 'Times New Roman', serif" font-size="12" letter-spacing="2.3">WANG YANGMING · A SOURCE-GROUNDED SKILL</text>
+
+  <g font-family="'Songti SC', 'Noto Serif CJK SC', 'Source Han Serif SC', SimSun, serif">
+    <text x="68" y="193" fill="#F2EDE0" font-size="88" letter-spacing="10">王阳明</text>
+    <text x="74" y="253" fill="#D4BC88" font-size="34" letter-spacing="8">开导与抉择</text>
+    <text x="75" y="324" fill="#C4CBC2" font-size="21" letter-spacing="2">从一件烦心事，读懂此心与此事。</text>
+  </g>
+
+  <!-- The right-hand motif suggests a landscape held in an open book. -->
+  <g fill="none" stroke="#B8A071" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="1003" cy="142" r="48" stroke-width="1" stroke-opacity="0.6"/>
+    <path d="M798 251C842 232 854 204 891 209C927 214 941 246 978 238C1014 230 1032 198 1060 202C1091 207 1106 235 1176 224" stroke-width="1.2" stroke-opacity="0.55"/>
+    <path d="M795 274C860 253 924 259 985 289C1046 259 1110 253 1175 274" stroke-width="1.3" stroke-opacity="0.85"/>
+    <path d="M795 274V297C860 277 924 283 985 313C1046 283 1110 277 1175 297V274M985 289V313" stroke-width="1.2" stroke-opacity="0.6"/>
+    <path d="M813 311C873 297 928 306 970 325M1000 325C1042 306 1097 297 1157 311" stroke-width="0.8" stroke-opacity="0.35"/>
+  </g>
+</svg>
