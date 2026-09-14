@@ -1,0 +1,45 @@
+{
+  "scope": "仅下列实际古文短引；繁简映射限雖/虽、處/处、樂/乐；不替代上下文与现代应用审查",
+  "results": [
+    {
+      "case": "relationship",
+      "input_version": "3.0.0",
+      "source_card": "S18",
+      "actual_quote": "虽哭，此心安处是乐也",
+      "matches_loaded_original_after_stated_trad_simp_conversion": true,
+      "note": "该短引可对上，不认证整篇推理。"
+    },
+    {
+      "case": "knowledge",
+      "input_version": "3.0.0",
+      "source_card": "S01",
+      "actual_quote": "知是行的主意，行是知的功夫",
+      "matches_loaded_original_after_stated_trad_simp_conversion": true,
+      "note": "该短引可对上，不认证整篇推理。"
+    },
+    {
+      "case": "decision",
+      "input_version": "3.0.0",
+      "source_card": "S01",
+      "actual_quote": "行是知的工夫",
+      "matches_loaded_original_after_stated_trad_simp_conversion": false,
+      "note": "历史输出的功/工差异原样保留，不能算逐字一致。"
+    },
+    {
+      "case": "recheck",
+      "input_version": "3.0.1",
+      "source_card": "S01",
+      "actual_quote": "懵懵懂懂地任意去做，全不解思惟省察",
+      "matches_loaded_original_after_stated_trad_simp_conversion": true,
+      "note": "该短引可对上，不认证整篇推理。"
+    },
+    {
+      "case": "recheck",
+      "input_version": "3.0.1",
+      "source_card": "S01",
+      "actual_quote": "方纔行得是",
+      "matches_loaded_original_after_stated_trad_simp_conversion": true,
+      "note": "该短引可对上，不认证整篇推理。"
+    }
+  ]
+}

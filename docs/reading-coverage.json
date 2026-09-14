@@ -1,0 +1,98 @@
+{
+  "date": "2026-09-14",
+  "meaning": "Checks recorded analyses and chunk identity/coverage. The script itself does not read or certify comprehension.",
+  "books": [
+    {
+      "id": "B01",
+      "name": "王阳明心学：修炼强大内心的神奇智慧(1).pdf",
+      "source_sha256": "33051d79c5dddc3670aedd4fe0eb239ea0f8b35fa143fe1a2af9b271157fb0fd",
+      "units": 522,
+      "text_chars": 235762,
+      "chunks": 27,
+      "chunks_with_reading_analysis": 27,
+      "missing": [],
+      "unit_coverage_complete": true
+    },
+    {
+      "id": "B02",
+      "name": "王阳明大全集(珍藏本超值白金版)(1).mobi",
+      "source_sha256": "002ab254ece5c3f7dec69f3e4fc9733fd3b4458452b3caf72a4eb3692ddd1dcb",
+      "units": 8121,
+      "text_chars": 518975,
+      "chunks": 90,
+      "chunks_with_reading_analysis": 90,
+      "missing": [],
+      "unit_coverage_complete": true
+    },
+    {
+      "id": "B03",
+      "name": "王阳明大传：知行合一的心学智慧（全新修订版）(1).pdf",
+      "source_sha256": "305770cee715882bbcce822f6450b1fbbedd994da651f2b35a53ce53e282ded4",
+      "units": 983,
+      "text_chars": 603232,
+      "chunks": 67,
+      "chunks_with_reading_analysis": 67,
+      "missing": [],
+      "unit_coverage_complete": true
+    },
+    {
+      "id": "B04",
+      "name": "王阳明：让良知自由(1).pdf",
+      "source_sha256": "46daa4b6480834401d9c9fef2fa3103f31dc341bb794fdb7d783e9526afda445",
+      "units": 150,
+      "text_chars": 106566,
+      "chunks": 12,
+      "chunks_with_reading_analysis": 12,
+      "missing": [],
+      "unit_coverage_complete": true
+    },
+    {
+      "id": "B05",
+      "name": "王阳明：全三册.pdf",
+      "source_sha256": "693548ebef595c63d1efc8d144a15090e1a20b8e58576de18481c39b8dc3729d",
+      "units": 1109,
+      "text_chars": 887210,
+      "chunks": 97,
+      "chunks_with_reading_analysis": 97,
+      "missing": [],
+      "unit_coverage_complete": true
+    },
+    {
+      "id": "B06",
+      "name": "千古大儒：王阳明.epub",
+      "source_sha256": "3dc0412c8c1901900571e0b7d34f570d42ab9dbc984d2d478acaf7b86dcb765e",
+      "units": 6,
+      "text_chars": 218823,
+      "chunks": 25,
+      "chunks_with_reading_analysis": 25,
+      "missing": [],
+      "unit_coverage_complete": true
+    },
+    {
+      "id": "B07",
+      "name": "传习录全鉴-迟双明.pdf",
+      "source_sha256": "1de3a19a6fa5b06c4eada5c0b66c0f2f2a2c486a16f7f9410fb51d0d24bbeb7c",
+      "units": 1139,
+      "text_chars": 266470,
+      "chunks": 32,
+      "chunks_with_reading_analysis": 32,
+      "missing": [],
+      "unit_coverage_complete": true
+    },
+    {
+      "id": "B08",
+      "name": "传习录 一本书读懂阳明心学(1).pdf",
+      "source_sha256": "960756e2681d3b2c5069f766d8f612baec1849e0ab2d2d767d5313b449d07e3c",
+      "units": 932,
+      "text_chars": 263234,
+      "chunks": 31,
+      "chunks_with_reading_analysis": 31,
+      "missing": [],
+      "unit_coverage_complete": true
+    }
+  ],
+  "total_chunks": 381,
+  "read_chunks": 381,
+  "total_extracted_chars": 3100272,
+  "errors": []
+}

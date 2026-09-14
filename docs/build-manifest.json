@@ -1,0 +1,13 @@
+{
+  "version": "3.1.0",
+  "hash_normalization": "UTF-8; universal-newline text read (LF)",
+  "source_units": 18,
+  "sha256": {
+    "SKILL.md": "65bea389267bf8c6ee9d41ed7b963f2829aacc1877a294c81c7e9f2067d333cc",
+    "references/source-cards.json": "5b7b05eff0fcaf4cc03c9ebaec1bb1a884f52b7a4e62915126ef771fcce2d007",
+    "references/runtime-sources.md": "f94cc52604e3173f5547f48d17f2f647d9a18f70b969361dbe3c0c43570766fb",
+    "prompts/直接开始.txt": "3fe2bc9328002219f7001d398808c712dc28781598d1b4aa89e50b414e4137a9",
+    "prompts/完整指南.md": "1e3de2327b0280258fda9b052ee08cb3d06939d79b29def645114a1a135351f1",
+    "prompts/完整指南.txt": "1e3de2327b0280258fda9b052ee08cb3d06939d79b29def645114a1a135351f1"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "scope": "Input identity, explicit markers, source-footer placement, literal excerpt matching and body lengths. One terminal semicolon changed to period is explicitly recorded as not exact; no output edited. Qualitative judgments in docs/evaluation.md are main-assistant review, not an automated score.",
+  "source_units_unchanged": true,
+  "cases": [
+    {
+      "case": "regret",
+      "version": "3.1.0",
+      "entry": "copy",
+      "input_identity_passed": true,
+      "first_answer_source_card": "S13",
+      "body_cjk_counts": [
+        475,
+        272
+      ],
+      "first_answer_explicit_paraphrase": true,
+      "first_answer_citations_in_footer": true,
+      "footer_excerpt_checks": [
+        {
+          "text": "侃多悔。",
+          "exact_match": true,
+          "only_terminal_semicolon_replaced_by_period": false
+        },
+        {
+          "text": "先生曰：「悔悟是去病之藥，然以改之為貴。若留滯於中，則又因藥發病。」",
+          "exact_match": true,
+          "only_terminal_semicolon_replaced_by_period": false
+        }
+      ],
+      "all_excerpts_exact": true,
+      "output_edited": false
+    },
+    {
+      "case": "choice",
+      "version": "3.1.0",
+      "entry": "native",
+      "input_identity_passed": true,
+      "first_answer_source_card": "S01",
+      "body_cjk_counts": [
+        516,
+        310
+      ],
+      "first_answer_explicit_paraphrase": true,
+      "first_answer_citations_in_footer": true,
+      "footer_excerpt_checks": [
+        {
+          "text": "懵懵懂懂地任意去做，全不解思惟省察，也只是個冥行妄作，所以必說個知，方纔行得是。",
+          "exact_match": false,
+          "only_terminal_semicolon_replaced_by_period": true
+        },
+        {
+          "text": "茫茫蕩蕩懸空去思索，全不肯著實躬行，也只是個揣摸影響，所以必說一個行，方纔知得真。",
+          "exact_match": true,
+          "only_terminal_semicolon_replaced_by_period": false
+        }
+      ],
+      "all_excerpts_exact": false,
+      "output_edited": false
+    },
+    {
+      "case": "boundary",
+      "version": "3.1.0",
+      "entry": "copy",
+      "input_identity_passed": true,
+      "first_answer_source_card": "S07",
+      "body_cjk_counts": [
+        510,
+        283
+      ],
+      "first_answer_explicit_paraphrase": true,
+      "first_answer_citations_in_footer": true,
+      "footer_excerpt_checks": [
+        {
+          "text": "不可因自己事務煩冗，隨意苟且斷之；不可因旁人譖毀羅織，隨人意思處之。",
+          "exact_match": true,
+          "only_terminal_semicolon_replaced_by_period": false
+        }
+      ],
+      "all_excerpts_exact": true,
+      "output_edited": false
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+# Personal records belong outside a public repository.
+/我的记录.*
+/private/
+/_personal/
+/memory/
+
+# The private reading workspace and uploaded modern books are not release inputs.
+/sources/
+/corpus/
+/chunks/
+/reading-images/
+/research/
+*.pdf
+*.epub
+*.mobi
+
+# Local build and editor output.
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+*.tmp
+*.zip
